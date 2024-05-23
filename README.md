@@ -27,7 +27,15 @@ Here are some ideas to get you started:
           
             
 
-          
+# And what am I studying?
+
+• Microservices Oriented Architecture
+
+• Messaging with RabbitMQ
+
+• AWS and GCP certifications
+
+• Kubernetes and DevOps Culture          
           
 
 ## Contatos:
