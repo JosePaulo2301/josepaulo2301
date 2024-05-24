@@ -1,4 +1,4 @@
-<p> Hello! may name is Jose Paulo !</p>
+<p align=left> Hello! may name is Jose Paulo !</p>
 <p align=left>🧬 I’m currently working on ...Backend Jr, focused in Java, Sringboot, Ruby e python <p>
 <p align=left>🌱 I’m currently learning ... Clean Archteture e Microsservices
 <p align=left>👯 I’m looking to collaborate on ... projects opensource
@@ -12,9 +12,22 @@
  <img align=center src="https://github-readme-stats.vercel.app/api?username=JosePaulo2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"/>
 <br>
 
-<h3>Projects</h3>
-## asdf
-- asdf
+
+## SmartyPants
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
+|  Tecnologia              |Framwork                          |HTML                         
+|----------------|-------------------------------|-----------------------------|
+|<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />            |
+|<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />           |
+|<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />|
+
+
+## KaTeX
+
+## KaTeX
+
 <br>
 <h3 align=left>🛠 Languages ​​that I work and study independentl</h3> 
 <div style="display: inline_block" align=left>
