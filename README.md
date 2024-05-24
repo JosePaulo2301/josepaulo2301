@@ -14,7 +14,10 @@
  <img align=center src="https://github-readme-stats.vercel.app/api?username=JosePaulo2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"/>
 <br>
 
-
+<h3>Projects</h3>
+## asdf
+- asdf
+<br>
 <h3 align=left>🛠 Languages ​​that I work and study independentl</h3> 
 <div style="display: inline_block" align=left>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
