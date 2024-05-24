@@ -16,7 +16,7 @@
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |                         
+| <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
 |----------------|
 ![Spring Framwork](https://img.shields.io/badge/Spring%20Framwork-gray?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=flat&logo=springboot)
@@ -25,7 +25,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 ![(JSP) Java Server Pages](https://img.shields.io/badge/(JSP)%20Java%20Server%20Pages-gray?style=flat)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-gray?style=flat&logo=apachetomcat)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-gray?style=flat)
-![JUnit 5](https://img.shields.io/badge/JUnit%205-gray?style=flat&logo=junit)
+![Junit 5](https://img.shields.io/badge/Junit%205-gray?style=flat&logo=junit5)
 
 
 
