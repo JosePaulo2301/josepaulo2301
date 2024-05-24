@@ -1,5 +1,3 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=48D946&height=200&section=header&fontSize=20" />
 <p> Hello! may name is Jose Paulo !</p>
 <p align=left>🧬 I’m currently working on ...Backend Jr, focused in Java, Sringboot, Ruby e python <p>
 <p align=left>🌱 I’m currently learning ... Clean Archteture e Microsservices
