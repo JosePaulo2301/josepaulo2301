@@ -16,17 +16,18 @@
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-| <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
-|----------------|
-![Spring Framwork](https://img.shields.io/badge/Spring%20Framwork-gray?style=flat&logo=spring)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=flat&logo=springboot)
-![Spring JPA](https://img.shields.io/badge/Spring%20JPA-gray?style=flat&logo=jpa)
-![Hibrnate](https://img.shields.io/badge/Hibrnate-gray?style=flat&logo=hibernate)
-![(JSP) Java Server Pages](https://img.shields.io/badge/(JSP)%20Java%20Server%20Pages-gray?style=flat)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-gray?style=flat&logo=apachetomcat)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-gray?style=flat)
-![Junit 5](https://img.shields.io/badge/Junit%205-gray?style=flat&logo=junit5)
-
+| <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |<img align="center" alt="java" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />|
+|-----------------------------------------------------------------------------------------------------------------|----------|
+|![Spring Framwork](https://img.shields.io/badge/Spring%20Framwork-gray?style=flat&logo=spring)                    |![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-gray?style=flat&logo=rubyonrails)|
+|![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=flat&logo=springboot)                        |![RubyMine](https://img.shields.io/badge/RubyMine-gray?style=flat&logo=rubymine)|
+|![Spring JPA](https://img.shields.io/badge/Spring%20JPA-gray?style=flat&logo=jpa)                                 |![Ruby Synatra](https://img.shields.io/badge/Ruby%20Synatra-gray?style=flat&logo=rubysinatra)|
+|![Hibrnate](https://img.shields.io/badge/Hibrnate-gray?style=flat&logo=hibernate)                                 |asdfasdfas|
+|![(JSP) Java Server Pages](https://img.shields.io/badge/(JSP)%20Java%20Server%20Pages-gray?style=flat)            |asdfasdfas|
+|![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-gray?style=flat&logo=apachetomcat)                  |asdfasdfas|
+|![Spring MVC](https://img.shields.io/badge/Spring%20MVC-gray?style=flat)                                          |asdfasdfas|
+|![Junit 5](https://img.shields.io/badge/Junit%205-gray?style=flat&logo=junit5)                                    |asdfasdfas|
+|![JetBrains](https://img.shields.io/badge/JetBrains-gray?style=flat&logo=jetbrains)                               |asdfasdfas|
+|![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=flat&logo=eclipseide)                                  |asdfasdfas|
 
 
 ## KaTeX
