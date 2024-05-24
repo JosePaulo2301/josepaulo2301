@@ -1,5 +1,6 @@
-## Hi there , my name is Jose Paulo!👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=48D946&height=125&section=header&fontSize=15" />
 
+<h1 color="48D946">Hi there , my name is Jose Paulo { }</h1>            
 
 **JosePaulo2301/josepaulo2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
