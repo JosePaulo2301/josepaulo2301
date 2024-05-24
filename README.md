@@ -18,7 +18,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />|Framwork                          |HTML                         
 |----------------|-------------------------------|-----------------------------|
-|![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2) <br> ![Static Badge](https://img.shields.io/badge/SPRING%20MVC-8A2BE2)<br>![Static Badge](https://img.shields.io/badge/JSP%20MVC-8A2BE2) <br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)<br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)| 
+|![Spring Framwork](https://img.shields.io/badge/Spring%20Framwork-gray?style=flat&logo=spring) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=flat&logo=springboot)<br>![Static Badge](https://img.shields.io/badge/JSP%20MVC-8A2BE2) <br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)<br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)| 
         |
 
 - {+ Just regular text +}
