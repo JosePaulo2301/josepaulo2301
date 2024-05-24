@@ -25,6 +25,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 - {+ Just regular text +}
 - {+ Just regular text +}
+![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2)
 
 
 ## KaTeX
