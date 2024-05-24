@@ -12,16 +12,14 @@
  <img align=center src="https://github-readme-stats.vercel.app/api?username=JosePaulo2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"/>
 <br>
 
-
-## SmartyPants
+## Tecnologias e Ferramentas de trabalho
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|  Tecnologia              |Framwork                          |HTML                         
+|  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />|Framwork                          |HTML                         
 |----------------|-------------------------------|-----------------------------|
-|<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />            |
-|<img align="center" alt="java" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />           |
-|<img align="center" alt="java" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />            |<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />|
+|![Static Badge](https://img.shields.io/badge/SPRINGBOOT-8A2BE2) <br> ![Static Badge](https://img.shields.io/badge/SPRING%20MVC-8A2BE2)<br>![Static Badge](https://img.shields.io/badge/JSP%20MVC-8A2BE2) <br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)<br>![Static Badge](https://img.shields.io/badge/APACHE%20TOMCAT%20-8A2BE2)| 
+        |
 
 - {+ Just regular text +}
 - {+ Just regular text +}
