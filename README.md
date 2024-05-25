@@ -3,9 +3,9 @@
 
 
 <p align=left> Hello! may name is Jose Paulo !</p>
-<p align=left>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails<p>
-<p align=left>🌱 I’m currently learning ... Clean Archteture e Microsservices
-<p align=left>👯 I’m looking to collaborate on ... projects opensource
+<p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
+<p align=left> 🌱 I’m currently learning ... Clean Archteture e Microsservices.
+<p align=left> 👯 I’m looking to collaborate on ... projects opensource.
   
 <div align=left>
 <a href = "mailto:contato@jose.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
