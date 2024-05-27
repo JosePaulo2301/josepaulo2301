@@ -16,18 +16,8 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Title=0D1117&Border=48D946&Ring=48D946">    <img  alt="JosePaulo2301's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JosePaulo2301?cardType=github&theme=dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Title=0D1117&Border=48D946&Ring=48D946" />  </a>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JosePaulo2301&theme=dark&border_radius=4.9&card_width=450&border=48D946&stroke=48D946&ring=48D946&currStreakLabel=48D946&sideLabels=48D946&sideNums=EBEBEB&fire=EB5454&currStreakNum=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=0D1117)](https://git.io/streak-stats)
-
-
-
-
+![JosePaulo2301's Stats](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![JosePaulo2301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosePaulo2301&theme=nightowl&hide_border=false)
 
 ## Technologies and work tools
 
