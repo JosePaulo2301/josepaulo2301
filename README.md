@@ -13,8 +13,8 @@
 <a href="https://dev.to/josedev11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
- <img align=center src="https://github-readme-stats.vercel.app/api?username=JosePaulo2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"/>
-<br>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ## Projects
