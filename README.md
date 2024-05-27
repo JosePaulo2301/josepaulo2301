@@ -1,12 +1,13 @@
 ###
-![GOLDEN HOUR (6)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/83ad713e-4526-4df2-9318-292fd7e3e73e)
 
+![GOLDEN HOUR (4)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/dc005bb4-7664-4ef4-86d6-b044d997a21d)
 
 
 <p align=left> Hello! may name is Jose Paulo !</p>
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture e Microsservices.
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource.
+
   
 <div align=left>
 <a href = "mailto:contato@jose.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,22 +16,17 @@
 </div>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Title=0D1117&Border=48D946&Ring=48D946">    <img  alt="JosePaulo2301's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JosePaulo2301?cardType=github&theme=dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Title=0D1117&Border=48D946&Ring=48D946" />  </a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=JosePaulo2301&theme=dark&border_radius=4.9&card_width=450&border=48D946&stroke=48D946&ring=48D946&currStreakLabel=48D946&sideLabels=48D946&sideNums=EBEBEB&fire=EB5454&currStreakNum=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=0D1117)](https://git.io/streak-stats)
 
 
-## Projects
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
+
 
 
 ## Technologies and work tools
@@ -50,7 +46,16 @@ Follow my main skills and technologies that I currently work and study
 | ![JetBrains](https://img.shields.io/badge/JetBrains-gray?style=plastic&logo=jetbrains)                                               | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![Metaplane](https://img.shields.io/badge/Metaplane-gray?style=plastic)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 | ![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=plastic&logo=eclipseide)                                                  | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                   | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 
-
+## Projects
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
 
 ## 
 
