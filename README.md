@@ -15,9 +15,12 @@
 </div>
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Text=DEDEDE&Background=0D1117&Border=79FF97&Ring=79FF97&Title=0D1117">    
-  <img  alt="JosePaulo2301's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JosePaulo2301?cardType=github&theme=dark&preferLogin=false&Text=DEDEDE&Background=0D1117&Border=79FF97&Ring=79FF97&Title=0D1117" />  
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Text=48D946&Background=48D946&Border=48D946&Ring=48D946&Title=48D946">    
+  <img  alt="JosePaulo2301's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JosePaulo2301?cardType=github&theme=dark&preferLogin=false&Text=48D946&Background=0D1117&Border=79FF97&Ring=48D946&Title=0D1117" />  
   </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JosePaulo2301&theme=dark&border_radius=4.9&card_width=450&border=48D946&stroke=48D946&ring=48D946&currStreakLabel=48D946&sideLabels=48D946&sideNums=EBEBEB&fire=EB5454&currStreakNum=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=0D1117)](https://git.io/streak-stats)
 
 
 ## Projects
