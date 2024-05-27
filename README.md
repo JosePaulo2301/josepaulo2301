@@ -1,3 +1,4 @@
+###
 ![GOLDEN HOUR (6)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/83ad713e-4526-4df2-9318-292fd7e3e73e)
 
 
@@ -14,7 +15,9 @@
 </div>
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Text=DEDEDE&Background=0D1117&Border=79FF97&Ring=79FF97&Title=0D1117">    
+  <img  alt="JosePaulo2301's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JosePaulo2301?cardType=github&theme=dark&preferLogin=false&Text=DEDEDE&Background=0D1117&Border=79FF97&Ring=79FF97&Title=0D1117" />  
+  </a>
 
 
 ## Projects
