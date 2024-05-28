@@ -15,13 +15,10 @@
 <a href="https://dev.to/josedev11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
-
-![JosePaulo2301's Stats](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![JosePaulo2301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosePaulo2301&theme=nightowl&hide_border=false)
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?josepaulo2301=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Technologies and work tools
 
