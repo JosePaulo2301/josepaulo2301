@@ -19,6 +19,8 @@
 ![JosePaulo2301's Stats](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 ![JosePaulo2301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosePaulo2301&theme=nightowl&hide_border=false)
 
+<codersrank-skills-chart username="JosePaulo2301"></codersrank-skills-chart>
+
 ## Technologies and work tools
 
 Follow my main skills and technologies that I currently work and study
