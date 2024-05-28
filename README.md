@@ -9,26 +9,48 @@
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture and Microsservices.
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource.
-
-###  
-<div align=center>
+<div align=letf>
 <a href = "mailto:contato@jose.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/josepaulojr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://dev.to/josedev11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
-<div align="center">
+<hr/>
+
+### ⚒️Technologies and work tools⚒️ 
+<!-- <h2 align="left"></h2>-->
+<!-- Follow my main skills and technologies that I currently work and study -->
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<hr/>
+
+### Projects
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+- [Handlebars templates](http://handlebarsjs.com/)
+<hr/>
+
+###  
+
+
+<div align="letf">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
-<h2 align="left">⚒️Technologies and work tools⚒️</h2>
-<!-- Follow my main skills and technologies that I currently work and study -->
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosePaulo2301&bg_color=0d1117&color=48d946&line=48d946&point=403d3d&area=true&hide_border=true)
+
+<hr/>
+
 
 <!-- 
 | <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img align="center" alt="java" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> | <img align="center" alt="java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | ⚙infrastructure                                                                                              | 💡Best pratices                                                                                                       |
@@ -44,17 +66,5 @@
 | ![JetBrains](https://img.shields.io/badge/JetBrains-gray?style=plastic&logo=jetbrains)                                               | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![Metaplane](https://img.shields.io/badge/Metaplane-gray?style=plastic)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 | ![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=plastic&logo=eclipseide)                                                  | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                   | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 -->
-## Projects
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
-- [Handlebars templates](http://handlebarsjs.com/)
 
-## 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosePaulo2301&bg_color=0d1117&color=48d946&line=48d946&point=403d3d&area=true&hide_border=true)
