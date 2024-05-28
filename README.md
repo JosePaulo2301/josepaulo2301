@@ -46,9 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosePaulo2301&bg_color=0d1117&color=48d946&line=48d946&point=403d3d&area=true&hide_border=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosePaulo2301&bg_color=0d1117&color=85e0ff&line=85e0ff&point=ecb1d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) <!--https://ashutosh00710.github.io/github-readme-activity-graph/-->
 <hr/>
 
 
