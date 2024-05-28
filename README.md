@@ -1,6 +1,6 @@
 ###
+![GOLDEN HOUR (1)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/5d06042f-567c-479a-a124-185d0c6a1d43)
 
-![GOLDEN HOUR (4)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/dc005bb4-7664-4ef4-86d6-b044d997a21d)
 ###
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=D5DAFA&random=false&width=435&lines=Hi!+name+is+Jose+Paulo!%F0%9F%A4%99;Welcome+to+my+github+profile+%3A)" alt="Typing SVG" /></a>
