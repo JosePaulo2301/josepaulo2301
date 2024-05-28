@@ -8,13 +8,12 @@
 <p align=left> 🌱 I’m currently learning ... Clean Archteture e Microsservices.
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource.
 
-  
-<div align=left>
+###  
+<div align=center>
 <a href = "mailto:contato@jose.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/josepaulojr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://dev.to/josedev11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="200" alt="languages graph"  />
