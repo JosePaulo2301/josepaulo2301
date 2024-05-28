@@ -21,10 +21,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-## Technologies and work tools
 
-Follow my main skills and technologies that I currently work and study
+<h2 align="left">⚒️Technologies and work tools⚒️</h2>
+<!-- Follow my main skills and technologies that I currently work and study -->
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<!-- 
 | <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img align="center" alt="java" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> | <img align="center" alt="java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | ⚙infrastructure                                                                                              | 💡Best pratices                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | ![Spring Framwork](https://img.shields.io/badge/Spring%20Framwork-gray?style=plastic&logo=spring)                                    | ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-gray?style=plastic&logo=rubyonrails)                              | ![FastAPI](https://img.shields.io/badge/FastAPI-gray?style=plastic&logo=fastapi)                                                      | ![Git](https://img.shields.io/badge/Git-gray?style=plastic&logo=Git)                                         | ![TDD (Test Driven Development)](https://img.shields.io/badge/TDD%20(Test%20Driven%20Development)-gray?style=plastic) |
@@ -37,7 +43,7 @@ Follow my main skills and technologies that I currently work and study
 | ![Junit 5](https://img.shields.io/badge/Junit%205-gray?style=plastic&logo=junit5)                                                    | ![RVM](https://img.shields.io/badge/RVM-gray?style=plastic)                                                                       | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![Cloud / GCP](https://img.shields.io/badge/Cloud%20/%20GCP-gray?style=plastic&logo=googlecloud)                | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 | ![JetBrains](https://img.shields.io/badge/JetBrains-gray?style=plastic&logo=jetbrains)                                               | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![Metaplane](https://img.shields.io/badge/Metaplane-gray?style=plastic)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
 | ![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=plastic&logo=eclipseide)                                                  | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=cloudways)                                    | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                                         | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                   | ![In discovery](https://img.shields.io/badge/In%20discovery-gray?style=plastic&logo=owncloud)                            |
-
+-->
 ## Projects
 - [Handlebars templates](http://handlebarsjs.com/)
 - [Handlebars templates](http://handlebarsjs.com/)
