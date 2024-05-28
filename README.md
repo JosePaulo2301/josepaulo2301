@@ -7,7 +7,7 @@
 ###
 
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
-<p align=left> 🌱 I’m currently learning ... Clean Archteture e Microsservices.
+<p align=left> 🌱 I’m currently learning ... Clean Archteture and Microsservices.
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource.
 
 ###  
