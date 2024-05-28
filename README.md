@@ -2,8 +2,9 @@
 ![GOLDEN HOUR (1)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/5d06042f-567c-479a-a124-185d0c6a1d43)
 
 ###
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=D5DAFA&random=false&width=435&lines=Hi!+name+is+Jose+Paulo!%F0%9F%A4%99;Welcome+to+my+github+profile+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=9ED8E6&random=false&width=435&lines=Hello!+My+name+is+Jos%C3%A9+Paulo!%F0%9F%A4%99;Welcome+to+my+Github+profile+%3D)" alt="Typing SVG" />
+</a>
+<br>
 ###
 
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
