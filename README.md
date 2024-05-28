@@ -1,9 +1,8 @@
 ###
 
 ![GOLDEN HOUR (4)](https://github.com/JosePaulo2301/josepaulo2301/assets/170546716/dc005bb4-7664-4ef4-86d6-b044d997a21d)
-
-
-<p align=left> Hello! may name is Jose Paulo !</p>
+###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=D5DAFA&random=false&width=435&lines=Hi!+name+is+Jose+Paulo!%F0%9F%A4%99" alt="Typing SVG" /></a><p align=left> Hello! may name is Jose Paulo !</p>
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture e Microsservices.
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource.
