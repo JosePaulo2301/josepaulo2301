@@ -7,9 +7,15 @@
 <br>
 ###
 
+<h4>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.</h4>
+<h4>🌱 I’m currently learning ... Clean Archteture and Microsservices. </h4>
+<h4>👯 I’m looking to collaborate on ... projects opensource. </h4>
+
+<!--
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture and Microsservices. <p>
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource. <p>
+-->
 <div align=letf>
 <a href = "mailto:contato@jose.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/josepaulojr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
