@@ -19,7 +19,9 @@
 ![JosePaulo2301's Stats](https://github-readme-stats.vercel.app/api?username=JosePaulo2301&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 ![JosePaulo2301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosePaulo2301&theme=nightowl&hide_border=false)
 
-<codersrank-skills-chart username="JosePaulo2301"></codersrank-skills-chart>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?josepaulo2301=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
 
 ## Technologies and work tools
 
