@@ -8,10 +8,11 @@
 ###
 
 <h4>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.</h4>
+<!--
 <h4>🌱 I’m currently learning ... Clean Archteture and Microsservices. </h4>
 <h4>👯 I’m looking to collaborate on ... projects opensource. </h4>
 
-<!--
+
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture and Microsservices. <p>
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource. <p>
