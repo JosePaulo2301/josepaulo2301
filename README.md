@@ -27,8 +27,8 @@
 <!-- Follow my main skills and technologies that I currently work and study -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,gitlab,tailwind,git,aws,azure,grafana,linux,postiman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,hibernate,spring,mongodb,java,nextjs,mysql,eclipse,go,docker,django,ruby" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,gitlab,git,aws,azure,grafana,linux,postman,k8s" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,hibernate,spring,mongodb,java,nextjs,mysql,eclipse,go,docker,django,ruby,rails" /><br>
 </div>
 <hr/>
 
