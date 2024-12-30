@@ -7,12 +7,10 @@
 <br>
 ###
 
-<h4>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.</h4>
+<h4>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and Golang. I have a certain affection for Ruby and Ruby on Rails.</h4>
 <!--
 <h4>🌱 I’m currently learning ... Clean Archteture and Microsservices. </h4>
 <h4>👯 I’m looking to collaborate on ... projects opensource. </h4>
-
-
 <p align=left> 🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and I have a certain affection for Ruby and Ruby on Rails.<p>
 <p align=left> 🌱 I’m currently learning ... Clean Archteture and Microsservices. <p>
 <p align=left> 👯 I’m looking to collaborate on ... projects opensource. <p>
@@ -29,8 +27,8 @@
 <!-- Follow my main skills and technologies that I currently work and study -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,go" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,nextjs,mysql,flask,gin, gitlab,docker" /><br>
 </div>
 <hr/>
 
