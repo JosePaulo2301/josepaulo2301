@@ -33,7 +33,7 @@
 <hr/>
 
 ### Projects
-- [api-management-posts](https://github.com/JosePaulo2301/api-management-posts)
+- [[Golang] - api-management-posts](https://github.com/JosePaulo2301/api-management-posts)
 - [Handlebars templates](http://handlebarsjs.com/)
 - [Handlebars templates](http://handlebarsjs.com/)
 - [Handlebars templates](http://handlebarsjs.com/)
