@@ -35,7 +35,7 @@
 ### Projects
 - [[Golang] - api-management-posts](https://github.com/JosePaulo2301/api-management-posts)
 - [[Golang] - go-categories-microsservice](https://github.com/JosePaulo2301/go-categories-microsservice)
-- [[Java/Spring] - Shortener-url-springboot](https://github.com/JosePaulo2301/go-categories-microsservice)
+- [[Java/Spring] - Java-shortener-url-whit-springboot](https://github.com/JosePaulo2301/java-shortener-url-whit-springboot)
 <hr/>
 
 ###  
