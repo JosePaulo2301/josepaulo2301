@@ -43,7 +43,7 @@
 
 <div align="letf">
   <img src="https://github-readme-stats.vercel.app/api?username=JosePaulo2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&card_width=200" height="200" alt="⭐ stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosePaulo2301&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="300" width="500" alt="💊 languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosePaulo2301&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=nightowl&hide_border=false" height="300" width="400" alt="💊 languages"  />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosePaulo2301&bg_color=0d1117&color=85e0ff&line=7fdbca&point=ecb1d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
