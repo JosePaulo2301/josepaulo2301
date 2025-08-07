@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=9ED8E6&random=false&width=435&lines=Hello!+My+name+is+Jos%C3%A9+Paulo!%F0%9F%A4%99;Welcome+to+my+Github+profile+%3D)" alt="Typing SVG" />
 </a>
 <br>
-###
+### 
 
 <h4>🧬 Software Development Back-End Jr, focused on Java, (Spring Boot), Python (Django) and Golang. I have a certain affection for Ruby and Ruby on Rails.</h4>
 <!--
